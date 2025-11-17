@@ -341,4 +341,12 @@ footer a {
 .container{
 	padding: 50px;
 }
+.recipe-origin{
+	display: inline
+	;
+}
+.recipe-title{
+	font-size: 22px;
+}
+
 }
