@@ -377,3 +377,31 @@ footer a {
 		float: left;
 	}
 }
+@media screen and (min-width:992px) {
+.recipe-title {
+		font-size: 30px;
+	}	
+	.recipe-card{
+		display: flex;
+	}
+	.recipe-video{
+		width: 100%;
+	}
+	.quick-notes ul{
+		display: block;
+	}
+	.btn{
+		padding: 6px 37px
+	}
+	.social-networks .label{
+		display: inline;
+	}
+	.social-networks{
+		display: inline;
+	}
+footer{
+	dISPLAY: flex;
+    JUSTIFY-CONTENT: SPACE-BETWEEN;
+	    text-align: left;
+}
+}
